@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324372091534",
+    "project_id": "twigconnect-e9738",
+    "storage_bucket": "twigconnect-e9738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324372091534:android:261cb484e858bfc9c5afdf",
+        "android_client_info": {
+          "package_name": "com.example.twigconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324372091534-5lfl60osqn1ovptpu9qn0tkdj1jgv47a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BpL2kEFUMaFdaeR4T5daymkLdlybkCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324372091534-5lfl60osqn1ovptpu9qn0tkdj1jgv47a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
