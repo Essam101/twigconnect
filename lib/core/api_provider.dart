@@ -26,7 +26,7 @@ class ApiProvider {
       final Map<String, dynamic> responseData = classifyResponse(response);
       return responseData;
     } on DioError catch (err) {
-      throw FetchDataException("internetError");
+      throw FetchDataException("internetError${err.message}");
     }
   }
 
